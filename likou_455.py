@@ -10,3 +10,7 @@ class Solution:
             if s[i] >= g[j]:
                 j = j + 1
         return j
+
+if __name__ == '__main__':
+    case = Solution()
+    case.findContentChildren()
