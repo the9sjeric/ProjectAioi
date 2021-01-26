@@ -2,7 +2,7 @@ import pygame
 import sys
 
 from rocket_settings import Settings
-from rocket import Rocketa
+from rocket import Rocket
 import rocket_function as rf
 
 def run_rocket():
